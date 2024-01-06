@@ -11,7 +11,7 @@ Uncover business dynamics with this Excel dataset! From Transaction_ID to Store_
 5. **Store_Type:** Categorization of stores for retail strategy.
 
 
-👉 Watch the Video Tour: [TransactionInsightsExcel Video Tour](https://www.linkedin.com/posts/ershriyasrivastava_exceldashboard-datavisualization-analyticsinaction-activity-7149053166188118017-4VV6?utm_source=share&utm_medium=member_desktop)
+👉 Watch the Video Tour: [Transaction_Insights_Excel Video Tour](https://www.linkedin.com/posts/ershriyasrivastava_exceldashboard-datavisualization-analyticsinaction-activity-7149053166188118017-4VV6?utm_source=share&utm_medium=member_desktop)
 
 
 📈 Empower Your Data Analysis Journey!
